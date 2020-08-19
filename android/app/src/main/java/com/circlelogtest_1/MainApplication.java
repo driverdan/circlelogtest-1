@@ -1,3 +1,5 @@
+break me!
+
 package com.circlelogtest_1;
 
 import android.app.Application;
